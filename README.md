@@ -6,6 +6,6 @@ Clone the repo and run the project:
 
 ```bash
 npm run dev
-
-default port: 3000
+```
+Default Port: 3000
 
